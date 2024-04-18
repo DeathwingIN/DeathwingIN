@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&color=4031AC&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Imesh+Nirmal!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&color=32CD32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Imesh+Nirmal!;" />
 </h1>
 
 <h3 align="center">A passionate computing undergradute from Sri Lanka 🇱🇰</h3>
@@ -55,7 +55,17 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DeathwingIN/DeathwingIN/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<div align=center>
+  <img width=390 height = 200  src="https://streak-stats.demolab.com?user=DeathwingIN&theme=highcontrast&count_private=true&theme=hacker&border_radius=10" alt="streak stats"/>
+  <img width=390 height = 200 src="https://github-readme-stats.vercel.app/api?username=DeathWingIn&count_private=true&show_icons=true&theme=shadow_green&bg_color=000&text_color=32CD32&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathwingIN&hide=HTML&langs_count=8&layout=compact&theme=shadow_green&&bg_color=000&text_color=32CD32&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
 
 <hr/>
