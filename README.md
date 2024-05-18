@@ -65,7 +65,10 @@
   <img width=390 height = 200 src="https://github-readme-stats.vercel.app/api?username=DeathWingIn&count_private=true&show_icons=true&theme=shadow_green&bg_color=000&text_color=32CD32&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeathwingIN&show_icons=true&theme=shadow_green&&bg_color=000&text_color=32CD32" />
-</div>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeathwingIN&show_icons=true&theme=shadow_green&&bg_color=000&text_color=32CD32" />
 
+![Top Languages](assets/language_stats.png)
+
+</div>
 
 <hr/>
